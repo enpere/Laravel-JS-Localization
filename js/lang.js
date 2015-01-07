@@ -7,7 +7,7 @@
  *  @author  rmariuzzo
  */
 
-'use strict';
+
 
 (function(root, factory) {
 
@@ -23,7 +23,7 @@
     }
 
 }(this, function() {
-
+'use strict';
     // Default options //
 
     var defaults = {
